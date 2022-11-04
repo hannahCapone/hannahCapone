@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hannahCapone, a Junior studying Computer Science at Fordham University.
+- 👋 Hi, I’m @hannahCapone, a passionate, out-of-the-box thinker, eager to grow.
 - 👀 I’m interested in programming, design, problem-solving, and groundbreaking.
 - 🌱 I’m currently cultivating skills in C++, Java, Python, & HTML
 - 💞️ I’m looking for a Summer 2023 Internship in NYC in Software Engineering.
