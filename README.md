@@ -1,6 +1,5 @@
-- Hi, I’m @hannahCapone, a passionate, driven, out-of-the-box thinker.
-- I’m interested in programming, design, problem-solving, and groundbreaking.
-- I’m currently cultivating skills in C++, Java, Python, PHP, Kotlin & HTML.
+- 🐏 2024 Fordham University Computer Science Graduate
+- 🗽 Software Engineer @ PolyAI
 - 📫 You can reach me at hcapone@fordham.edu!
 
 <!---
