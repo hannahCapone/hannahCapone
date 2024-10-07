@@ -1,5 +1,5 @@
 - 🐏 2024 Fordham University Computer Science Graduate
-- 🗽 Software Engineer @ PolyAI
+- 🗽 Software Engineer @ PolyAI in NYC
 - 📫 You can reach me at hcapone@fordham.edu!
 
 <!---
